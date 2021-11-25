@@ -6,8 +6,10 @@
         <entry key="..\:/Android_Project/app/src/main/res/drawable/btn_background.xml" value="0.275" />
         <entry key="..\:/Android_Project/app/src/main/res/drawable/edt_background.xml" value="0.1453125" />
         <entry key="..\:/Android_Project/app/src/main/res/layout/activity_login.xml" value="0.14375" />
-        <entry key="..\:/Android_Project/app/src/main/res/layout/activity_main.xml" value="0.12604166666666666" />
+        <entry key="..\:/Android_Project/app/src/main/res/layout/activity_main.xml" value="0.2734375" />
         <entry key="..\:/Android_Project/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/Android_Project/app/src/main/res/layout/user_layout.xml" value="0.13148148148148148" />
+        <entry key="..\:/Android_Project/app/src/main/res/menu/menu.xml" value="0.24444444444444444" />
       </map>
     </option>
   </component>
